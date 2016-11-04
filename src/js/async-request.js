@@ -66,12 +66,3 @@ store.dispatch((dispatch) => {
     dispatch({ type: 'FETCH_USERS_ERROR', payload: err });
   })
 });
-
-
-
-
-
-
-
-
-//
